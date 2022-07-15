@@ -1,0 +1,20 @@
+.modal-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 44px;
+  font-family: var(--secondary-font-family);
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.31;
+  cursor: pointer;
+  background: var(--fourth-accent-color);
+  color: #ffffff;
+  border: none;
+  border-radius: 22px;
+}
+
+.modal-btn_color_white {
+  background: #ffffff;
+  color: var(--fourth-accent-color);
+}
